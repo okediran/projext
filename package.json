@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "daniel okediran",
 	"description": "A project to help frontend user",
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
